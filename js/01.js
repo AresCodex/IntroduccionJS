@@ -24,4 +24,3 @@ var NombreProducto = 'Monitor HD'; //pascal case se usa cuado se crea una clase
 var nombreproducto = 'Monitor Hd'; //lowcase
 
 console.log (producto); //ver variable en consola
-
