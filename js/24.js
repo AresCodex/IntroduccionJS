@@ -33,7 +33,33 @@ for (let i = 0; i < carrito.length; i++) {
 
 // While loop
 
+// let i = 1; //indice
+
+// while (i <= 100) { //condicion
+// if (i % 2 === 0) {
+    
+//     console.log (`El número ${i} es PAR`)
+//  } else {
+//     console.log (`El número ${i} es IMPAR`)
+//  }
+
+// let i = 20;
+
+// while (i < 10 ) {
+
+// console.log (`Desde el while loop`)
+//     i++; //incremento
+// }
 
 
 
 // do while loop
+
+let i = 100;
+
+do {
+    console.log (i);
+
+
+    i++;
+} while (i < 10);
